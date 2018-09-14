@@ -1,0 +1,11 @@
+Running python 2.7
+the external libraries you'll need to run the project can be found here:-
+
+Python Imaging Library (PIL)
+http://www.pythonware.com/products/pil/
+
+Pywin32
+https://github.com/mhammond/pywin32
+
+Numpy
+https://www.scipy.org/scipylib/download.html
